@@ -1,0 +1,132 @@
+C:\Users\Andre\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\Andre\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\Andre\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\Andre\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.xml
+C:\Users\Andre\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.vbprojAssemblyReference.cache
+C:\Users\Andre\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.Resources.resources
+C:\Users\Andre\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+C:\Users\Andre\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\Andre\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.xml
+C:\Users\Andre\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\Andre\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\bin\Debug\LoginApp.xml
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.Resources.resources
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.xml
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\Andre\Desktop\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\Andre\Desktop\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\Andre\Desktop\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\Andre\Desktop\LoginApp\LoginApp\bin\Debug\LoginApp.xml
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.vbprojAssemblyReference.cache
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.Resources.resources
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.xml
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\esiandco\Desktop\files\LoginApp\obj\Debug\LoginApp.vbproj.AssemblyReference.cache
+C:\Users\esiandco\Desktop\files\LoginApp\obj\Debug\LoginApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\esiandco\Desktop\files\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+C:\Users\esiandco\Desktop\files\LoginApp\obj\Debug\LoginApp.Resources.resources
+C:\Users\esiandco\Desktop\files\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+C:\Users\esiandco\Desktop\files\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+C:\Users\esiandco\Desktop\files\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\esiandco\Desktop\files\LoginApp\obj\Debug\LoginApp.xml
+C:\Users\esiandco\Desktop\files\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\esiandco\Desktop\files\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\esiandco\Desktop\files\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\esiandco\Desktop\files\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\esiandco\Desktop\files\LoginApp\bin\Debug\LoginApp.xml
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.vbproj.AssemblyReference.cache
+M:\Visual Studio 2017\Projects\LoginApp\LoginApp\obj\Debug\LoginApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.FrmCheat.resources
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.FrmMenu.resources
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.FrmRoleta.resources
+C:\Users\Andre\Desktop\LoginApp\LoginApp\obj\Debug\LoginApp.FrmSlot.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.xml
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbprojAssemblyReference.cache
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmCheat.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmMenu.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmRoleta.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmSlot.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.Resources.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.xml
+C:\Users\esiandco\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.pdb
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.exe.config
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.exe
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.pdb
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.xml
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmCheat.resources
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmMenu.resources
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmRoleta.resources
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmSlot.resources
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.Resources.resources
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.exe
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.xml
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.pdb
+M:\Visual Studio 2017\Projects\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.xml
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.Resources.resources
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.xml
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.AssemblyReference.cache
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmCheat.resources
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmMenu.resources
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmRoleta.resources
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmSlot.resources
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.Resources.resources
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.xml
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\esiandco\Downloads\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.xml
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\bin\Debug\LoginApp.xml
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.AssemblyReference.cache
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.SuggestedBindingRedirects.cache
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmCheat.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmMenu.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmRoleta.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.FrmSlot.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.Resources.resources
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.xml
+C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbprojAssemblyReference.cache
