@@ -21,12 +21,32 @@ Public Class FrmLogin
     Dim SQLResult As String
 
     Private Sub Form_Login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        With Me
+            .txtUsernameR.Location = New System.Drawing.Point(257, 34)
+            .lblUsernameR.Location = New System.Drawing.Point(215, 34)
+            .txtEmailR.Location = New System.Drawing.Point(257, 66)
+            .lblEmailR.Location = New System.Drawing.Point(205, 66)
+            .txtPasswordR1.Location = New System.Drawing.Point(257, 99)
+            .lblPasswordR1.Location = New System.Drawing.Point(187, 99)
+            .lblPassInfo.Location = New System.Drawing.Point(257, 123)
+            .txtPasswordR2.Location = New System.Drawing.Point(257, 143)
+            .lblPasswordR2.Location = New System.Drawing.Point(144, 144)
+            .btnSign_UpR.Location = New System.Drawing.Point(191, 178)
+            .btnCancelR.Location = New System.Drawing.Point(272, 178)
 
-        'Criar um loop para dar load no programa
+            .txtUsername.Location = New System.Drawing.Point(241, 68)
+            .lblUsername.Location = New System.Drawing.Point(199, 69)
+            .txtPassword.Location = New System.Drawing.Point(241, 101)
+            .lblPassword.Location = New System.Drawing.Point(171, 102)
+            .btnLog_In.Location = New System.Drawing.Point(192, 134)
+            .btnCancel.Location = New System.Drawing.Point(273, 134)
 
-        Me.Visible = True
-        StartVisible(True)
-        LoginVisible(False)
+            .Size = New System.Drawing.Point(436, 280)
+            .Visible = True
+        End With
+
+        StartVisible(False)
+        LoginVisible(True)
         RegisterVisible(False)
         btnLogIn.Enabled = False
         btnRegister.Enabled = False
@@ -55,22 +75,32 @@ ReEnter:
         Dim ConnAnother As SqlConnection = New SqlConnection("Data Source=" & ConnServer & ";Initial Catalog=" & ConnDatabase & ";Integrated Security=True")
         SQLConnect = ConnAnother
 
+        If ConnServer = "" Then
+            MsgBox("You must enter a database server name.")
+            GoTo ReEnter
+        End If
+
+        If ConnDatabase = "" Then
+            MsgBox("You must enter a database name.", Title:=BoxTitle)
+            GoTo ReEnter
+        End If
+
         Try
             SQLConnect.Open()
             SQLConnect.Close()
             Return 1
         Catch ex As Exception
-            MsgBox("There was a problem connecting to your database.")
+            MsgBox("There was a problem connecting to your database.", Title:=BoxTitle)
             GoTo ReEnter
         End Try
     End Function
 
-    Private Sub Login_Start_Click(sender As Object, e As EventArgs) Handles btnLogIn.Click 'Open Login Button
+    Private Sub Login_Start_Click(sender As Object, e As EventArgs) Handles btnLogIn.Click
         StartVisible(False)
         LoginVisible(True)
     End Sub
 
-    Private Sub Register_Start_Click(sender As Object, e As EventArgs) Handles btnRegister.Click 'Open Register Button
+    Private Sub Register_Start_Click(sender As Object, e As EventArgs) Handles btnRegister.Click
         StartVisible(False)
         RegisterVisible(True)
         lblPassInfo.Text = "Introduce a password."
@@ -106,7 +136,7 @@ ReEnter:
         LogSecure(True)
     End Sub
 
-    Private Sub Register_Confirm_Click(sender As Object, e As EventArgs) Handles btnSign_UpR.Click 'Real Register Button
+    Private Sub Register_Confirm_Click(sender As Object, e As EventArgs) Handles btnSign_UpR.Click
         Dim RegisterPoints As Integer = 0
         RegisterSecure(False)
 

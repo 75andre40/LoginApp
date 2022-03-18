@@ -130,3 +130,15 @@ C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\D
 C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.xml
 C:\Users\esiandco\Desktop\Login_SlotMachine (1)\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.pdb
 C:\Users\Andre\Desktop\Login_SlotMachine\LoginApp\obj\Debug\LoginApp.vbprojAssemblyReference.cache
+H:\Documents\GitHub\aandre4321\Login\LoginApp\bin\Debug\LoginApp.exe.config
+H:\Documents\GitHub\aandre4321\Login\LoginApp\bin\Debug\LoginApp.exe
+H:\Documents\GitHub\aandre4321\Login\LoginApp\bin\Debug\LoginApp.pdb
+H:\Documents\GitHub\aandre4321\Login\LoginApp\bin\Debug\LoginApp.xml
+H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.vbprojAssemblyReference.cache
+H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.Resources.resources
+H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.exe
+H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.xml
+H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.pdb

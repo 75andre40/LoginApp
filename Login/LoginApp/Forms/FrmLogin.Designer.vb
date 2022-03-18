@@ -82,7 +82,7 @@ Partial Class FrmLogin
         Me.lblUsername.AutoSize = True
         Me.lblUsername.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!)
         Me.lblUsername.ForeColor = System.Drawing.SystemColors.Control
-        Me.lblUsername.Location = New System.Drawing.Point(199, 69)
+        Me.lblUsername.Location = New System.Drawing.Point(890, 68)
         Me.lblUsername.Name = "lblUsername"
         Me.lblUsername.Size = New System.Drawing.Size(36, 15)
         Me.lblUsername.TabIndex = 3
@@ -93,7 +93,7 @@ Partial Class FrmLogin
         Me.lblPassword.AutoSize = True
         Me.lblPassword.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!)
         Me.lblPassword.ForeColor = System.Drawing.SystemColors.Control
-        Me.lblPassword.Location = New System.Drawing.Point(171, 102)
+        Me.lblPassword.Location = New System.Drawing.Point(862, 101)
         Me.lblPassword.Name = "lblPassword"
         Me.lblPassword.Size = New System.Drawing.Size(64, 15)
         Me.lblPassword.TabIndex = 3
@@ -101,7 +101,7 @@ Partial Class FrmLogin
         '
         'txtUsername
         '
-        Me.txtUsername.Location = New System.Drawing.Point(241, 68)
+        Me.txtUsername.Location = New System.Drawing.Point(932, 67)
         Me.txtUsername.MaxLength = 16
         Me.txtUsername.Name = "txtUsername"
         Me.txtUsername.Size = New System.Drawing.Size(132, 20)
@@ -109,7 +109,7 @@ Partial Class FrmLogin
         '
         'txtPassword
         '
-        Me.txtPassword.Location = New System.Drawing.Point(241, 101)
+        Me.txtPassword.Location = New System.Drawing.Point(932, 100)
         Me.txtPassword.MaxLength = 60
         Me.txtPassword.Name = "txtPassword"
         Me.txtPassword.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
@@ -121,7 +121,7 @@ Partial Class FrmLogin
         Me.lblUsernameR.AutoSize = True
         Me.lblUsernameR.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!)
         Me.lblUsernameR.ForeColor = System.Drawing.SystemColors.Control
-        Me.lblUsernameR.Location = New System.Drawing.Point(215, 34)
+        Me.lblUsernameR.Location = New System.Drawing.Point(510, 35)
         Me.lblUsernameR.Name = "lblUsernameR"
         Me.lblUsernameR.Size = New System.Drawing.Size(36, 15)
         Me.lblUsernameR.TabIndex = 3
@@ -132,7 +132,7 @@ Partial Class FrmLogin
         Me.lblPasswordR1.AutoSize = True
         Me.lblPasswordR1.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!)
         Me.lblPasswordR1.ForeColor = System.Drawing.SystemColors.Control
-        Me.lblPasswordR1.Location = New System.Drawing.Point(187, 99)
+        Me.lblPasswordR1.Location = New System.Drawing.Point(482, 100)
         Me.lblPasswordR1.Name = "lblPasswordR1"
         Me.lblPasswordR1.Size = New System.Drawing.Size(64, 15)
         Me.lblPasswordR1.TabIndex = 3
@@ -140,7 +140,7 @@ Partial Class FrmLogin
         '
         'txtUsernameR
         '
-        Me.txtUsernameR.Location = New System.Drawing.Point(257, 34)
+        Me.txtUsernameR.Location = New System.Drawing.Point(552, 35)
         Me.txtUsernameR.MaxLength = 16
         Me.txtUsernameR.Name = "txtUsernameR"
         Me.txtUsernameR.Size = New System.Drawing.Size(132, 20)
@@ -148,7 +148,7 @@ Partial Class FrmLogin
         '
         'txtPasswordR1
         '
-        Me.txtPasswordR1.Location = New System.Drawing.Point(257, 99)
+        Me.txtPasswordR1.Location = New System.Drawing.Point(552, 100)
         Me.txtPasswordR1.MaxLength = 60
         Me.txtPasswordR1.Name = "txtPasswordR1"
         Me.txtPasswordR1.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
@@ -160,7 +160,7 @@ Partial Class FrmLogin
         Me.lblPasswordR2.AutoSize = True
         Me.lblPasswordR2.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!)
         Me.lblPasswordR2.ForeColor = System.Drawing.SystemColors.Control
-        Me.lblPasswordR2.Location = New System.Drawing.Point(144, 144)
+        Me.lblPasswordR2.Location = New System.Drawing.Point(439, 145)
         Me.lblPasswordR2.Name = "lblPasswordR2"
         Me.lblPasswordR2.Size = New System.Drawing.Size(107, 15)
         Me.lblPasswordR2.TabIndex = 3
@@ -168,7 +168,7 @@ Partial Class FrmLogin
         '
         'txtPasswordR2
         '
-        Me.txtPasswordR2.Location = New System.Drawing.Point(257, 143)
+        Me.txtPasswordR2.Location = New System.Drawing.Point(552, 144)
         Me.txtPasswordR2.MaxLength = 60
         Me.txtPasswordR2.Name = "txtPasswordR2"
         Me.txtPasswordR2.PasswordChar = Global.Microsoft.VisualBasic.ChrW(42)
@@ -180,7 +180,7 @@ Partial Class FrmLogin
         Me.lblEmailR.AutoSize = True
         Me.lblEmailR.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!)
         Me.lblEmailR.ForeColor = System.Drawing.SystemColors.Control
-        Me.lblEmailR.Location = New System.Drawing.Point(205, 66)
+        Me.lblEmailR.Location = New System.Drawing.Point(500, 67)
         Me.lblEmailR.Name = "lblEmailR"
         Me.lblEmailR.Size = New System.Drawing.Size(46, 15)
         Me.lblEmailR.TabIndex = 3
@@ -189,7 +189,7 @@ Partial Class FrmLogin
         'txtEmailR
         '
         Me.txtEmailR.CharacterCasing = System.Windows.Forms.CharacterCasing.Lower
-        Me.txtEmailR.Location = New System.Drawing.Point(257, 66)
+        Me.txtEmailR.Location = New System.Drawing.Point(552, 67)
         Me.txtEmailR.MaxLength = 100
         Me.txtEmailR.Name = "txtEmailR"
         Me.txtEmailR.Size = New System.Drawing.Size(132, 20)
@@ -198,7 +198,7 @@ Partial Class FrmLogin
         'btnLog_In
         '
         Me.btnLog_In.BackColor = System.Drawing.SystemColors.Control
-        Me.btnLog_In.Location = New System.Drawing.Point(192, 134)
+        Me.btnLog_In.Location = New System.Drawing.Point(883, 133)
         Me.btnLog_In.Name = "btnLog_In"
         Me.btnLog_In.Size = New System.Drawing.Size(75, 23)
         Me.btnLog_In.TabIndex = 0
@@ -208,7 +208,7 @@ Partial Class FrmLogin
         'btnSign_UpR
         '
         Me.btnSign_UpR.BackColor = System.Drawing.SystemColors.Control
-        Me.btnSign_UpR.Location = New System.Drawing.Point(191, 178)
+        Me.btnSign_UpR.Location = New System.Drawing.Point(486, 179)
         Me.btnSign_UpR.Name = "btnSign_UpR"
         Me.btnSign_UpR.Size = New System.Drawing.Size(75, 23)
         Me.btnSign_UpR.TabIndex = 0
@@ -218,7 +218,7 @@ Partial Class FrmLogin
         'btnCancel
         '
         Me.btnCancel.BackColor = System.Drawing.SystemColors.Control
-        Me.btnCancel.Location = New System.Drawing.Point(273, 134)
+        Me.btnCancel.Location = New System.Drawing.Point(964, 133)
         Me.btnCancel.Name = "btnCancel"
         Me.btnCancel.Size = New System.Drawing.Size(75, 23)
         Me.btnCancel.TabIndex = 0
@@ -228,7 +228,7 @@ Partial Class FrmLogin
         'btnCancelR
         '
         Me.btnCancelR.BackColor = System.Drawing.SystemColors.Control
-        Me.btnCancelR.Location = New System.Drawing.Point(272, 178)
+        Me.btnCancelR.Location = New System.Drawing.Point(567, 179)
         Me.btnCancelR.Name = "btnCancelR"
         Me.btnCancelR.Size = New System.Drawing.Size(75, 23)
         Me.btnCancelR.TabIndex = 0
@@ -240,7 +240,7 @@ Partial Class FrmLogin
         Me.lblPassInfo.AutoSize = True
         Me.lblPassInfo.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!)
         Me.lblPassInfo.ForeColor = System.Drawing.SystemColors.Control
-        Me.lblPassInfo.Location = New System.Drawing.Point(257, 123)
+        Me.lblPassInfo.Location = New System.Drawing.Point(552, 124)
         Me.lblPassInfo.Name = "lblPassInfo"
         Me.lblPassInfo.Size = New System.Drawing.Size(127, 15)
         Me.lblPassInfo.TabIndex = 3
@@ -252,7 +252,7 @@ Partial Class FrmLogin
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Highlight
-        Me.ClientSize = New System.Drawing.Size(420, 241)
+        Me.ClientSize = New System.Drawing.Size(1186, 241)
         Me.Controls.Add(Me.picLogo)
         Me.Controls.Add(Me.btnRegister)
         Me.Controls.Add(Me.btnLogIn)
