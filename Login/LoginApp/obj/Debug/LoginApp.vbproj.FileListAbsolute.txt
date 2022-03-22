@@ -142,3 +142,15 @@ H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.vbproj.CoreComp
 H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.exe
 H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.xml
 H:\Documents\GitHub\aandre4321\Login\LoginApp\obj\Debug\LoginApp.pdb
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\bin\Debug\LoginApp.xml
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\obj\Debug\LoginApp.vbprojAssemblyReference.cache
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\obj\Debug\LoginApp.FrmLogin.resources
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\obj\Debug\LoginApp.Resources.resources
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\obj\Debug\LoginApp.vbproj.GenerateResource.cache
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\obj\Debug\LoginApp.vbproj.CoreCompileInputs.cache
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\obj\Debug\LoginApp.xml
+C:\Users\esiandco\Desktop\LoginApp-main\Login\LoginApp\obj\Debug\LoginApp.pdb

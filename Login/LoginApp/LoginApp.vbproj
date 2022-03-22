@@ -74,6 +74,10 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Classes\ClsEncoder.vb" />
+    <Compile Include="Classes\ClsSqlData.vb" />
+    <Compile Include="Classes\ClsValidates.vb" />
+    <Compile Include="Classes\ClsVisuals.vb" />
     <Compile Include="Forms\FrmLogin.vb">
       <SubType>Form</SubType>
     </Compile>

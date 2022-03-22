@@ -43,6 +43,8 @@ Partial Class FrmLogin
         Me.btnCancel = New System.Windows.Forms.Button()
         Me.btnCancelR = New System.Windows.Forms.Button()
         Me.lblPassInfo = New System.Windows.Forms.Label()
+        Me.txtAcessPIN = New System.Windows.Forms.TextBox()
+        Me.lblAcessPIN = New System.Windows.Forms.Label()
         CType(Me.picLogo, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -246,6 +248,24 @@ Partial Class FrmLogin
         Me.lblPassInfo.TabIndex = 3
         Me.lblPassInfo.Text = "Introduce a password."
         '
+        'txtAcessPIN
+        '
+        Me.txtAcessPIN.Location = New System.Drawing.Point(53, 193)
+        Me.txtAcessPIN.Name = "txtAcessPIN"
+        Me.txtAcessPIN.Size = New System.Drawing.Size(50, 20)
+        Me.txtAcessPIN.TabIndex = 5
+        '
+        'lblAcessPIN
+        '
+        Me.lblAcessPIN.AutoSize = True
+        Me.lblAcessPIN.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.0!)
+        Me.lblAcessPIN.ForeColor = System.Drawing.SystemColors.Control
+        Me.lblAcessPIN.Location = New System.Drawing.Point(45, 174)
+        Me.lblAcessPIN.Name = "lblAcessPIN"
+        Me.lblAcessPIN.Size = New System.Drawing.Size(68, 15)
+        Me.lblAcessPIN.TabIndex = 6
+        Me.lblAcessPIN.Text = "Admin PIN:"
+        '
         'FrmLogin
         '
         Me.AcceptButton = Me.btnLog_In
@@ -253,6 +273,8 @@ Partial Class FrmLogin
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.SystemColors.Highlight
         Me.ClientSize = New System.Drawing.Size(1186, 241)
+        Me.Controls.Add(Me.lblAcessPIN)
+        Me.Controls.Add(Me.txtAcessPIN)
         Me.Controls.Add(Me.picLogo)
         Me.Controls.Add(Me.btnRegister)
         Me.Controls.Add(Me.btnLogIn)
@@ -304,4 +326,6 @@ Partial Class FrmLogin
     Friend WithEvents btnCancel As Button
     Friend WithEvents btnCancelR As Button
     Friend WithEvents lblPassInfo As Label
+    Friend WithEvents txtAcessPIN As TextBox
+    Friend WithEvents lblAcessPIN As Label
 End Class
